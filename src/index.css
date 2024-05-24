@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(240,242,245);
+}
+
+.bg-secondary{
+  background-color: rgb(216, 216, 216) !important;
+}
+
+.navbar{
+  padding-bottom: 0px;
+  background-color: rgb(255, 255, 255);
+}
+
+.black-icon{
+  color: black;
+}
+
+.topnav-hover{
+
+  border-bottom: 3px solid transparent;
+}
+
+.topnav-hover:hover{
+  color: Blue;
+  border-bottom: 3px solid Blue;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.list-group-item{
+  border: none;
+  background-color: rgb(240,242,245);
+}
+.list-group-item:hover{
+  background-color: rgb(228,230,233);
+}
+
+.sticky{
+  position: sticky;
+  right: 0;
+  top: 65px;
+}
+
+
+.navbar{
+  z-index: 2;
+}
+.relative{
+  position: relative;
+}

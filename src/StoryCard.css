@@ -1,0 +1,25 @@
+
+
+
+.storytext{
+    position: absolute;
+    top: 90%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bolder;
+}
+
+.relative {
+    position: relative;
+}
+
+.storycircle{
+    height: 20%;
+    width:30%;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    border-radius: 50%;
+    border: 3px solid blue;
+}
